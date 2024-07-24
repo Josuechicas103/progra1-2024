@@ -1,0 +1,2 @@
+C:\Users\amaya\Desktop\programacion 2024\joelcampos\joelcampos\obj\Debug\joelcampos.csproj.AssemblyReference.cache
+C:\Users\amaya\Desktop\programacion 2024\joelcampos\joelcampos\obj\Debug\joelcampos.csproj.CoreCompileInputs.cache
